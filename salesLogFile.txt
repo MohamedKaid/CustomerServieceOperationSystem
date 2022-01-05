@@ -1,0 +1,13 @@
+Tobacco:10,15,9,159,Tue May  4
+Tobacco:10,15,9,159,Tue May  4
+Tobacco:10,15,9,159,Wed May  5
+Tobacco:10,33,19.8,349.8,Wed May  5
+Tobacco:1,10,0.6,10.6,Wed May  5
+Tobacco:1,10,0.6,10.6,Wed May  5
+Non-Taxable:1,10,0,10,Wed May  5
+Taxable:10,15,9,159,Wed May  5
+Tobacco:10,15,9,159,Wed May  5
+Non-Taxable:6,12,0,72,Wed May  5
+Tobacco:2,5,0.6,10.6,Fri Jul 30
+Non-Taxable:6,1,0,6,Fri Jul 30
+Gas Regular:4,2.5,0,10,Fri Jul 30

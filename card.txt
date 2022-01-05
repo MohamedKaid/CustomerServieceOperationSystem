@@ -1,0 +1,7 @@
+FirstName: john
+LastName: smith
+Email: johnS@gmail.com
+Age: 23
+Postion: cashier
+ID: 123
+Password: jsmith
